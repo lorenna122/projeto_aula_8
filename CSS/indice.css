@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0%;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #059736;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.menu {
+    background: #eee;
+    width: 145px;
+    min-height: 200px;
+    float: left;
+    padding: 10px;
+}
+
+nav ul {
+    padding-left: 20px;
+}
+
+nav li {
+    margin-bottom: 10px;
+}
+
+.conteudo {
+    margin-left: 145px;
+    padding: 10px;
+    min-height: 200px;
+}
+
+footer {
+    background: #059736;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    clear: both;
+}
